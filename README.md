@@ -15,7 +15,7 @@ By Xuziqian Yang, Xiao Tan, Yongbin Liu, Huaian Chen, Yi Jin, Haoxuan Wang, Enho
 
 ## Set
 
-The test parameters can be adjusted in **test.yaml**, which can be found in **./config** folder.
+Test parameters can be modified in the **test.yaml** file, which can be found in the **./config** folder.
 
 ## Test
   ```
